@@ -1,0 +1,11 @@
+[2.2강]
+const a = 5;
+const b = "2";
+
+console.log(a + b);
+console.log(a * b);
+console.log(a / b);
+
+b를 문자를 했을 경우, 왜 +는 계산이 안되고, 나머지는 계산이 되는가?
+
+
