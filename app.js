@@ -1,8 +1,19 @@
-let a = 5;
-let b = 2;
-let myName = "nico";
+const caculator = {
+  addition: function(a, b){
+    console.log(a + b);
+  },
+  subtraction: function(a, b){
+    console.log(a - b);
+  },
+  division: function(a, b){
+    console.log(a / b);
+  },
+  multiplication: function(a, b){
+    console.log(a * b);
+  },
+}
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log("hello" + myName);
+caculator.addition(1, 2);
+caculator.subtraction(1, 2);
+caculator.division(1, 2);
+caculator.multiplication(1, 2);
