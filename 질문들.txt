@@ -9,3 +9,10 @@ console.log(a / b);
 b를 문자를 했을 경우, 왜 +는 계산이 안되고, 나머지는 계산이 되는가?
 
 
+[3.3강]
+click 이벤트 시, 받는 function argument는 object로 되어있는데,
+혹시 내가 function에 줄 argument를 object, 혹은 Array로 주어도 되나?
+
+
+[5.1강]
+new Date(); new Array(); 같은 애들은 왜 이러한 문법을 써야하는지?
