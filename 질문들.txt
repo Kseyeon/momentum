@@ -16,3 +16,10 @@ click 이벤트 시, 받는 function argument는 object로 되어있는데,
 
 [5.1강]
 new Date(); new Array(); 같은 애들은 왜 이러한 문법을 써야하는지?
+
+[7.4강]
+JSON.stringify 에서 로컬스토리지로 저장될 때, string인데 왜 array 형식으로 저장되는지..?
+JSON.stringify와 JSON.parse의 이해가 아직 잘 안됨.
+
+[8.1강]
+브라우저 보안으로 인하여 https가 아닌 이상 해당 API는 쓸 수가 없음.
